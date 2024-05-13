@@ -21,21 +21,21 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
-  name             : "Jiajie Zhao"
-  pronouns         : # example: "he/him"  
-  bio              : "I am a 4th year mathematical undergraduate student from Shanghai JiaoTong University"
-  location         : "China Shanghai"
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "https://zjj0216@sjtu.edu.cn" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    :# "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "http://orcid.org/yourorcidurl"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
