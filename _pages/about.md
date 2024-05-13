@@ -11,4 +11,4 @@ I am a 4th-year undergraduate student from [Zhiyuan College](https://zhiyuan.sjt
 
 My tutor is [Prof.Yaoyu Zhang](https://ins.sjtu.edu.cn/peoples/zhangyaoyu),from [Institute of Natural Science](https://ins.sjtu.edu.cn),[Shanghai JiaoTong University](https://www.sjtu.edu.cn).
 
-[Email](zjj0216@sjtu.edu.cn)
+[Email](zjj0216@sjtu.edu.cn) / [Github](https://github.com/zjjSJTU) / [Wechat](Zhao-Jiajie.github.io/images/wechat.jpg)
